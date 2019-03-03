@@ -1,14 +1,14 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Francesco Taurone
+bio: Automation Engineer
 
-description: Eve Adam's Personal Website
+description: Francesco Taurone Website
 
 # Profile picture
-picture: assets/images/profile.jpg
+picture: assets/images/profile_picture.png
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://francescotaurone.github.io
 
 # do you want to display social media links? true or false
 social-media: true
@@ -41,7 +41,7 @@ width: normal
 about: true
 
 # do you want to display a skills section? true or false
-skills: true
+skills: false
 
 # add your skills here
 skills-list:
@@ -55,7 +55,7 @@ skills-list:
     - Git    
 
 # do you want to display a projects section? true or false
-projects: true
+projects: false
 
 # add your projects here
 project-list:
