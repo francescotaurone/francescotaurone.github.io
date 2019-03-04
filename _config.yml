@@ -66,8 +66,24 @@ project-list:
         name: Manipulator control with various trajectories and methods
         description: Control of a manipulator with various trajectories and methods
         url: /documents/robotics_report.pdf
-
-
+    Lejos:
+        name: Lejos platform project
+        description: Path following and obstacle avoidance
+        url: /documents/robotics_report.pdf
+    T3Lab:
+        name: Security camera face recognition
+        description: Deep learning based face recognition for safety application
+        url: /documents/robotics_report.pdf
+    
+    Thesis BSc:
+        name: Bachelor thesis - AC inductor design
+        description: AC inductor design for phase shifted power converter
+        url: /documents/robotics_report.pdf
+    Magna:
+        name: Magna - Platform for meal sharing
+        description: For lunch breaks shared between students and elderlies
+        url: /documents/robotics_report.pdf
+   
 # do you want to display the theme attribution? true or false
 footer: false
 
