@@ -58,11 +58,14 @@ skills-list:
 projects: true
 # add your projects here
 project-list:
-    Distributed Dual Gradient Tracking for Microgrid Control:
-        name: DSC Project
+    DCS Project:
+        name: Distributed Dual Gradient Tracking for Microgrid Control
         description: Control of a distributed system for Microgrid application
         url: /documents/DCS_final.pdf
-    
+    Robotics:
+        name: Manipulator control with various trajectories and methods
+        description: Control of a manipulator with various trajectories and methods
+        url: /documents/robotics_report.pdf
 
 
 # do you want to display the theme attribution? true or false
