@@ -59,7 +59,7 @@ projects: true
 # add your projects here
 project-list:
     Distributed Dual Gradient Tracking for Microgrid Control:
-        name: DSC project
+        name: [DSC Project](/documents/DCS_final.pdf)
         description: Control of a distributed system for Microgrid application
         url: 
     
