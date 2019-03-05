@@ -85,7 +85,7 @@ project-list:
         url: /documents/Contest_realtime_Taurone.pdf
     Magna:
         name: Magna - Platform for meal sharing
-        description: For lunch breaks shared between students and elderlies
+        description: For lunch breaks shared between students and elders
         url: https://cbiageing.wixsite.com/magna
    
 # do you want to display the theme attribution? true or false
