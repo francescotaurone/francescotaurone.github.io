@@ -1,6 +1,6 @@
 # Your name and what you do
 name: Francesco Taurone
-bio: Automation Engineer
+bio: MSc Automation Engineer
 
 description: Francesco Taurone Website
 
@@ -15,7 +15,7 @@ social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/tauronefra
 linkedin: www.linkedin.com/in/francescotaurone
 github: https://github.com/francescotaurone
 email: francesco.taurone@gmail.com
@@ -69,20 +69,24 @@ project-list:
     Lejos:
         name: Lejos platform project
         description: Path following and obstacle avoidance
-        url: /documents/robotics_report.pdf
+        url: /documents/finalProject_lejos.java
     T3Lab:
         name: Security camera face recognition
         description: Deep learning based face recognition for safety application
-        url: /documents/robotics_report.pdf
+        url: /documents/computer_vision_report.pdf
     
     Thesis BSc:
         name: Bachelor thesis - AC inductor design
         description: AC inductor design for phase shifted power converter
-        url: /documents/robotics_report.pdf
+        url: /documents/Bsc_Thesis_Francesco_Taurone.pdf
+    RealTime philosophers:
+        name: Real time systems project
+        description: Innovative resolution of the Dining Philosophers problem for an internal contest, [code](/documents/Contest2.c)
+        url: /documents/Contest_realtime_Taurone.pdf
     Magna:
         name: Magna - Platform for meal sharing
         description: For lunch breaks shared between students and elderlies
-        url: /documents/robotics_report.pdf
+        url: https://cbiageing.wixsite.com/magna
    
 # do you want to display the theme attribution? true or false
 footer: false
