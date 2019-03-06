@@ -1,6 +1,6 @@
 # Your name and what you do
 name: Francesco Taurone
-bio: MSc student in Automation Engineering
+bio: MSc student in Automation Engineering <br> University of Bologna
 
 description: Francesco Taurone Website
 
@@ -60,33 +60,42 @@ projects: true
 project-list:
     DCS Project:
         name: Distributed Dual Gradient Tracking for Microgrid Control
-        description: Control of a distributed system for Microgrid application
-        url: /documents/DCS_final.pdf
+        description: Control of a distributed multiagents system for Microgrid application
+        pdf: /documents/DCS_final.pdf
+        code: https://github.com/francescotaurone/Projects/tree/master/Distributed_control_smartgrid_code
+    
     Robotics:
         name: Manipulator control with various trajectories and methods
-        description: Control of a manipulator with various trajectories and methods
-        url: /documents/robotics_report.pdf
-    Lejos:
-        name: Lejos platform project
-        description: Path following and obstacle avoidance
-        url: /documents/finalProject_lejos.java
+        description: Control of a Puma560 manipulator by means of various control techniques 
+        pdf: /documents/robotics_report.pdf
+        code: https://github.com/francescotaurone/Projects/tree/master/Manipulator_simulations
+    
     T3Lab:
         name: Security camera face recognition
         description: Deep learning based face recognition for safety application
-        url: /documents/computer_vision_report.pdf
-    
+        pdf: /documents/computer_vision_report.pdf
+        code: https://github.com/francescotaurone/Projects/tree/master/Face_recognition
+    Lejos:
+        name: Lejos platform project
+        description: Path following and obstacle avoidance application using LegoNXT Lejos
+        code: https://github.com/francescotaurone/Projects/tree/master/Lejos_mobile_robot
+      
     Thesis BSc:
         name: Bachelor thesis - AC inductor design
         description: AC inductor design for phase shifted power converter
-        url: /documents/Bsc_Thesis_Francesco_Taurone.pdf
+        pdf: /documents/Bsc_Thesis_Francesco_Taurone.pdf
+        
     RealTime philosophers:
         name: Real time systems project
-        description: Innovative resolution of the Dining Philosophers problem for an internal contest, [code](/documents/Contest2.c)
-        url: /documents/Contest_realtime_Taurone.pdf
+        description: Innovative resolution of the Dining Philosophers problem for an internal university contest
+        code: https://github.com/francescotaurone/Projects/blob/master/Realtime_philosophers.c
+        pdf: /documents/Contest_realtime_Taurone.pdf
+        
     Magna:
         name: Magna - Platform for meal sharing
-        description: For lunch breaks shared between students and elders
+        description: For the CBI project @CERN, lunch sharing service between students and elders
         url: https://cbiageing.wixsite.com/magna
+        pdf: /documents/Magna_eng.pdf
    
 # do you want to display the theme attribution? true or false
 footer: false

@@ -18,7 +18,10 @@
             background: #FFF
             box-shadow: #FFF 0 0 0 5px
             border-radius: 3px
-
+    >.url:hover
+        color: $delta
+    >.url
+        transition: all ease-in-out .2s
 .home > .list,
 .blog > .list,
 .projects > .list
@@ -27,13 +30,14 @@
         width: 100%
         margin: 0 auto
 
-    > .item > .url
+    > .item > .title
         width: 100%
         display: block
         padding: 0px 0
         text-decoration: none
+        margin-bottom: 0px
 
-    > .item > .url > .title
+    > .item > .title > .url
         margin: 0
         width: 100%
         font-weight: 500
@@ -42,7 +46,7 @@
         margin-top: 0px
         margin-bottom: 30px
 
-    > .item:hover > .url > .title
+    > .item > .title > .url:hover
         color: $delta
 
     // maybe we can't nest html5 elements
