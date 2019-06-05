@@ -60,7 +60,7 @@ projects: true
 project-list:
     Master thesis:
         name: 3D Object Recognition from a Single Image via Patch Detection by a Deep CNN
-        description: under development
+        description: Under development
     DCS Project:
         name: Distributed Dual Gradient Tracking for Microgrid Control
         description: Control of a distributed multiagents system for Microgrid application
