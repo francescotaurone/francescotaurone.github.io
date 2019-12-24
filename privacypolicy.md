@@ -1,7 +1,8 @@
+---
 layout: page
 title: "PRIVACY POLICY"
 permalink: /privacy-policy/
-
+---
 
 
 PRIVACY POLICY – INFORMATIVA PRIVACY
