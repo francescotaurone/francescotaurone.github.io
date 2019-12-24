@@ -3,11 +3,12 @@ layout: page
 title: "PRIVACY POLICY"
 permalink: /privacy-policy/
 ---
+<h1> {{ PRIVACY POLICY – INFORMATIVA PRIVACY }} </h1>
+<p> {{ INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI AI SENSI DELL’ART. 13 DEL REGOLAMENTO (UE) 2016/679
+ }} </p>
 
 
-PRIVACY POLICY – INFORMATIVA PRIVACY
 
-INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI AI SENSI DELL’ART. 13 DEL REGOLAMENTO (UE) 2016/679
 
 L’Istituto Italiano per la Privacy e la Valorizzazione dei Dati, piazza San Salvatore in Lauro 13, 00186 – Roma, Partita Iva 11129771009, Codice Fiscale 97506750583, in qualità di Titolare del trattamento (d’ora in avanti: d’ora in avanti “IIP” o “Titolare”), ai sensi del Regolamento UE 2016/679 (d’ora in avanti: “Regolamento”) – considera la privacy e la tutela dei Dati Personali l’obiettivo principale della propria attività. La invitiamo, dunque, prima di trasmettere qualsiasi dato personale al Titolare, a leggere con attenzione la presente Informativa: essa contiene informazioni importanti sul trattamento dei Suoi Dati Personali. Per “Dati Personali” si intende qualsiasi informazione riguardante una persona fisica identificata o identificabile («interessato»); si considera identificabile la persona fisica che può essere identificata, direttamente o indirettamente, con particolare riferimento a un identificativo come il nome, un numero di identificazione, dati relativi all’ubicazione, un identificativo online o a uno o più elementi caratteristici della sua identità fisica, fisiologica, genetica, psichica, economica, culturale o sociale.
 
