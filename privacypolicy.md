@@ -1,0 +1,209 @@
+layout: page
+title: "PRIVACY POLICY"
+permalink: /privacy-policy/
+
+
+
+PRIVACY POLICY – INFORMATIVA PRIVACY
+
+INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI AI SENSI DELL’ART. 13 DEL REGOLAMENTO (UE) 2016/679
+
+L’Istituto Italiano per la Privacy e la Valorizzazione dei Dati, piazza San Salvatore in Lauro 13, 00186 – Roma, Partita Iva 11129771009, Codice Fiscale 97506750583, in qualità di Titolare del trattamento (d’ora in avanti: d’ora in avanti “IIP” o “Titolare”), ai sensi del Regolamento UE 2016/679 (d’ora in avanti: “Regolamento”) – considera la privacy e la tutela dei Dati Personali l’obiettivo principale della propria attività. La invitiamo, dunque, prima di trasmettere qualsiasi dato personale al Titolare, a leggere con attenzione la presente Informativa: essa contiene informazioni importanti sul trattamento dei Suoi Dati Personali. Per “Dati Personali” si intende qualsiasi informazione riguardante una persona fisica identificata o identificabile («interessato»); si considera identificabile la persona fisica che può essere identificata, direttamente o indirettamente, con particolare riferimento a un identificativo come il nome, un numero di identificazione, dati relativi all’ubicazione, un identificativo online o a uno o più elementi caratteristici della sua identità fisica, fisiologica, genetica, psichica, economica, culturale o sociale.
+
+La presente Informativa:
+
+    si intende resa per i siti https://academy.istitutoitalianoprivacy.it/ e https://www.istitutoitalianoprivacy.it/ (d’ora in avanti: “Sito”);
+    costituisce parte integrante del Sito e dei servizi che offriamo;
+    è resa ai sensi dell’art.13 del Regolamento, a coloro che interagiscono con i servizi web del Sito e del Titolare, sia mediante la semplice consultazione che mediante l’utilizzo di specifici servizi messi a disposizione tramite il Sito
+
+Il Titolare può essere contattato all’indirizzo: info@istitutoprivacy.it. Il Titolare non ha, per ora, designato formalmente un Responsabile della protezione dei dati ex art. 37 del Regolamento UE 2016/679, poiché non rientra nei casi d’obbligo.
+
+Questo documento è stato redatto ai sensi dell’art. 13 del Regolamento UE 2016/679 (di seguito: “Regolamento“) al fine di permetterLe di conoscere la nostra politica sulla privacy, capire come le Sue informazioni personali vengono trattate quando utilizza i nostri siti (https://academy.istitutoitalianoprivacy.it/ e https://www.istitutoitalianoprivacy.it/, di seguito collettivamente intesi “Sito”) e, se del caso, di prestare il consenso al trattamento dei Suoi Dati Personali libero e consapevole. Le informazioni ed i dati da Lei forniti od altrimenti acquisiti nell’ambito dell’utilizzo dei servizi di IIP, – come ad esempio per la partecipazione ad eventi o a corsi di formazione o per l’abbonamento alla Rivista – di seguito “Servizi” -, saranno oggetto di trattamento nel rispetto delle disposizioni del Regolamento e degli obblighi di riservatezza che ispirano l’attività dell’IIP.
+
+Secondo le norme del Regolamento, i trattamenti effettuati dall’IIP saranno improntati ai principi di liceità, correttezza, trasparenza, limitazione delle finalità e della conservazione, minimizzazione dei dati, esattezza, integrità e riservatezza.
+
+INDICE
+
+1. Titolare del trattamento
+
+2. I Dati Personali oggetto di trattamento
+
+a. Dati di navigazione
+
+b. Dati forniti volontariamente dall’interessato
+
+3. Finalità del trattamento
+
+4. Base legale e natura obbligatoria o facoltativa del trattamento
+
+5. Destinatari dei Dati Personali
+
+6. Conservazione dei Dati Personali
+
+7. Diritti dell’interessato
+
+8. Modifiche
+
+9. Cookie
+
+____________________________________________________________________
+
+1. Titolare del trattamento
+
+Il titolare dei trattamenti svolti attraverso il Sito è l’Istituto Italiano per la Privacy e la Valorizzazione dei Dati (d’ora in avanti “IIP” o “IIP”), piazza San Salvatore in Lauro 13, 00186 – Roma, Partita Iva 11129771009, Codice Fiscale 97506750583, raggiungibile all’indirizzo email info@istitutoprivacy.it.
+
+2. I Dati Personali oggetto del trattamento
+
+A seguito della navigazione del Sito, la informiamo che IIP tratterà i suoi Dati Personali che potranno essere costituiti da un identificativo come il nome, un numero di identificazione, un identificativo online o a uno o più elementi caratteristici della Sua identità fisica, economica, culturale o sociale idonea a rendere il soggetto interessato identificato o identificabile.
+
+Potrebbero essere trattati altri Dati Personali da lei liberamente forniti nei form di richiesta di informazioni (per esempio per ottenere informazioni su corsi o per richieste di iscrizione a corsi di formazione). Eventuali dati sensibili, di cui all’art. 9.1 Reg. 2016/679/UE non dovrebbero essere trattati se non previo consenso esplicito reso da parte dell’interessato.
+
+a. Dati di navigazione
+
+I sistemi informatici e le procedure software preposte al funzionamento del Sito acquisiscono, nel corso del loro normale esercizio, alcuni Dati Personali la cui trasmissione è implicita nell’uso dei protocolli di comunicazione di Internet. Si tratta di informazioni che non sono raccolte per essere associate a interessati identificati, ma che per loro stessa natura potrebbero, attraverso elaborazioni ed associazioni con dati detenuti da terzi, permettere di identificare gli utenti. In questa categoria di dati rientrano gli indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti che si connettono al Sito, gli indirizzi in notazione URI (Uniform Resource Identifier) delle risorse richieste, l’orario della richiesta, il metodo utilizzato nel sottoporre la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta data dal server (buon fine, errore, etc.) ed altri parametri relativi al sistema operativo e all’ambiente informatico dell’utente. Questi dati vengono utilizzati al solo fine di ricavare informazioni statistiche anonime sull’uso del Sito e per controllarne il corretto funzionamento, per identificare anomalie e/o abusi, e vengono cancellati immediatamente dopo l’elaborazione. I dati potrebbero essere utilizzati per l’accertamento di responsabilità in caso di ipotetici reati informatici ai danni del sito o di terzi: salva questa eventualità, allo stato i dati sui contatti web non persistono per più di sette giorni.
+
+b. Dati forniti volontariamente dall’interessato
+
+Potremmo trattare dati anagrafici e/o di contatto quali nome, cognome, email e telefono. Dati relativi a gradi di formazione ed educazione contenuti in curricula. Dati relativi a pagamenti e altre informazioni bancarie, per esempio contenute in ricevute di versamento di quote di iscrizione a corsi di formazione. Dati relativi all’identificativo del compilatore del generatore delle informative a fumetti.
+Qualora Lei comunicasse a IIP Dati Personali di terzi, Lei dovrà garantire – assumendosene ogni responsabilità – che tale particolare ipotesi di trattamento si fonda su un’idonea base giuridica ai sensi dell’art. 6 del Regolamento, che legittima la comunicazione a IIP e il connesso trattamento delle informazioni in questione.
+
+3. Finalità del trattamento
+
+Il trattamento di dati che intendiamo effettuare può avere le seguenti finalità:
+
+a. Consentire l’erogazione dei Servizi da lei richiesti quali:
+
+registrazione al sito;
+
+iscrizione alla newsletter via email;
+
+iscrizione a corsi di formazione;
+
+condivisione di contenuti presenti sul sito;
+
+richiesta generica di informazioni;
+
+iscrizione ad eventi ed iniziative organizzate dall’IIP;
+
+gestione del Suo eventuale rapporto associativo con IIP;
+
+promozione e gestione di donazioni e sponsorizzazioni dell’IIP, ovvero abbonamenti a sue iniziative e prodotti editoriali e scientifici;
+
+racconta e analisi di curricula vitae per finalità di collaborazione o affiliazione all’Istituto;
+
+generazione di informative a fumetti attraverso l’apposita pagina “Pianeta Privacy”;
+
+b. rispondere a richieste di assistenza o di informazioni;
+
+c. assolvere eventuali obblighi di legge, contabili e fiscali;
+
+d. far valere o difendere diritti in giudizio, in caso di abusi nell’utilizzo del Sito e/o dei nostri Servizi o per contenziosi di natura contrattuale o extracontrattuale;
+
+e. gestire il rapporto contrattuale in essere con studenti e docenti dei Corsi di formazione organizzati dall’IIP, anche pubblicando immagini, video e audio dei docenti sulla piattaforma web e/o tv e/o satellitare di e-learning gestita dalla società di mezzi dell’IIP, IIP Servizi Formativi e Tecnologici S.r.l., appositamente designata Responsabile esterno del trattamento di dati personali.
+
+4. Base di legittimità e natura obbligatoria o facoltativa del trattamento
+
+La base legale del trattamento di Dati Personali per le finalità di cui alla sezione 3(a-b) è l’art. 6.1.b) del Regolamento in quanto i trattamenti sono necessari all’erogazione dei Servizi o per il riscontro di richieste dell’interessato. Il conferimento dei Dati Personali per queste finalità è facoltativo ma l’eventuale mancato conferimento comporterebbe l’impossibilità di attivare i Servizi forniti dal Sito.
+
+Per i trattamenti rientranti nelle finalità statutarie dell’IIP, ricomprese tra quelle di cui alla lettera 3(a), potrebbero essere trattati dati di aderenti o soggetti in contatto regolare con IIP. Nel caso Lei abbia acquistato servizi o beni da IIP, i Suoi dati potrebbero essere trattati per finalità di invio diretto di materiale pubblicitario in relazione a prodotti o servizi di IIP analoghi a quelli da Lei acquistati, senza il Suo consenso (cd. “soft spam”). Il trattamento dei Suoi dati per tali finalità è il legittimo interesse di cui all’art. 6.1.f) del Regolamento e di cui all’art. 130 comma 4 D.lgs. 196/2003. In ogni caso, ai sensi dell’art. 21 del Regolamento, Lei ha la possibilità di opporsi a tale trattamento in ogni momento, inizialmente o in occasione di successive comunicazioni, in maniera agevole e gratuitamente anche scrivendo al Titolare ai recapiti sopra indicati, nonché di ottenere un immediato riscontro che confermi l’interruzione di tale trattamento (art. 15 del Regolamento).
+
+La finalità di cui alla sezione 3(c) rappresenta un trattamento di Dati Personali svolto ai sensi dell’art. 6.1.c) del Regolamento, per adempimento ad obbligo legale. Una volta conferiti i Dati Personali, il trattamento è invero necessario per adempiere ad un obbligo di legge a cui IIP è soggetto. Il trattamento per le finalità di cui alla sezione 3(d) verrebbe svolto ai sensi dell’art. 6.1.f) del Regolamento.
+
+5. Destinatari dei Dati Personali
+
+I Suoi Dati Personali potranno essere condivisi, per le finalità di cui alla sezione 3 più sopra, con:
+
+    a. soggetti che agiscono tipicamente in qualità di responsabili del trattamento ex art. 28 del Regolamento ossia: i) persone, società o studi professionali che prestano attività di assistenza e consulenza a IIP in materia contabile, amministrativa, legale, tributaria, finanziaria e di recupero crediti relativamente alla erogazione dei Servizi; ii) soggetti con i quali sia necessario interagire per l’erogazione dei Servizi (ad esempio gli hosting provider) iii) ovvero soggetti delegati a svolgere attività di manutenzione tecnica (inclusa la manutenzione degli apparati di rete e delle reti di comunicazione elettronica); (collettivamente “Destinatari”); l’elenco dei responsabili del trattamento che trattano dati può essere richiesto al Titolare.
+    b. soggetti, enti od autorità, autonomi titolari del trattamento, a cui sia obbligatorio comunicare i Suoi Dati Personali in forza di disposizioni di legge o di ordini delle autorità;
+    c. persone autorizzate da IIP al trattamento di Dati Personali ex art. 29 del Regolamento necessario a svolgere attività strettamente correlate all’erogazione dei Servizi, che si siano impegnate alla riservatezza o abbiano un adeguato obbligo legale di riservatezza (es. dipendenti di IIP)
+
+6. Conservazione dei dati
+
+I Dati Personali trattati per le finalità di cui alla sezione 3(a-d) saranno conservati per il tempo strettamente necessario a raggiungere quelle stesse finalità nel rispetto dei principi di minimizzazione e limitazione della conservazione ex art. 5.1.e) del Regolamento. I dati relativi ai contenuti e ai soggetti che compilano il motore di generazione delle informative a fumetti on line potranno essere conservati per 7 giorni, per assicurare la disponibilità di informazioni in caso di necessità da parte del compilatore e del Titolare (es. per finalità difensive da abusi, in giudizio).  In ogni caso, il Titolare tratterà i Dati Personali per il tempo necessario ad adempimenti contrattuali e di legge.
+
+Maggiori informazioni in merito al periodo di conservazione dei dati e ai criteri utilizzati per determinare tale periodo possono essere richieste scrivendo al Titolare.
+
+7. Diritti degli interessati
+
+Ai sensi degli articoli 15 e seguenti del Regolamento, Lei ha il diritto di chiedere in qualunque momento, l’accesso ai Suoi Dati Personali, la rettifica o la cancellazione degli stessi, la limitazione del trattamento nei casi previsti dall’art. 18 del Regolamento, ottenere in un formato strutturato, di uso comune e leggibile da dispositivo automatico i dati che la riguardano, nei casi previsti dall’art. 20 del Regolamento. In ogni momento, Lei può revocare ex art. 7 del Regolamento il consenso prestato; proporre reclamo all’autorità di controllo competente ex articolo 77 del Regolamento (Garante per la Protezione dei Dati Personali WWW.GARANTEPRIVACY.IT) ai sensi dell’art. 77 del Regolamento, qualora ritenga che il trattamento dei suoi dati sia contrario alla normativa in vigore.
+
+Può formulare una richiesta di opposizione al trattamento dei Suoi dati ex articolo 21 del Regolamento nella quale dare evidenza delle ragioni che giustifichino l’opposizione: il Titolare si riserva di valutare l’istanza, che non verrebbe accettata in caso di esistenza di motivi legittimi cogenti per procedere al trattamento che prevalgano sui Suoi interessi, diritti e libertà.
+
+Le richieste vanno rivolte per iscritto al Titolare.
+
+8. Modifiche
+
+La presente privacy policy è in vigore dal 25 maggio 2018. IIP si riserva di modificarne o semplicemente aggiornarne il contenuto, in parte o completamente, anche a causa di variazioni della normativa applicabile. IIP la informerà di tali variazioni non appena verranno introdotte ed esse saranno vincolanti non appena pubblicate sul Sito. IIP la invita quindi a visitare con regolarità questa sezione per prendere cognizione della più recente ed aggiornata versione della privacy policy in modo da essere sempre aggiornato sui dati raccolti e sull’uso che ne fa IIP.
+
+9. Cookie
+
+La presente cookie policy è riferita esclusivamente al sito (“Sito”) e deve essere intesa come parte integrante della Privacy Policy del medesimo.
+
+1. Definizioni, caratteristiche e applicazione della normativa
+
+I cookie sono piccoli file di testo che i siti visitati dall’utente inviano e registrano sul suo computer o dispositivo mobile, per essere poi ritrasmessi agli stessi siti alla successiva visita. Proprio grazie ai cookie un sito ricorda le azioni e preferenze dell’utente (come, ad esempio, i dati di login, la lingua prescelta, le dimensioni dei caratteri, altre impostazioni di visualizzazione, ecc.) in modo che non debbano essere indicate nuovamente quando l’utente torni a visitare detto sito o navighi da una pagina all’altra di esso. I cookie, quindi, sono usati per eseguire autenticazioni informatiche, monitoraggio di sessioni e memorizzazione di informazioni riguardanti le attività degli utenti che accedono ad un sito e possono contenere anche un codice identificativo unico che consente di tenere traccia della navigazione dell’utente all’interno del sito stesso per finalità statistiche o pubblicitarie. Nel corso della navigazione su un sito, l’utente può ricevere sul suo computer o dispositivo mobile anche cookie di siti o di web server diversi da quello che sta visitando (c.d. cookie di “terze parti”). Alcune operazioni non potrebbero essere compiute senza l’uso dei cookie, che in certi casi sono quindi tecnicamente necessari per lo stesso funzionamento del sito.
+
+Esistono vari tipi di cookie, a seconda delle loro caratteristiche e funzioni, e questi possono rimanere nel computer o dispositivo mobile dell’utente per periodi di tempo diversi: c.d. cookie di sessione, che viene automaticamente cancellato alla chiusura del browser; c.d. cookie persistenti, che permangono sull’apparecchiatura dell’utente fino ad una scadenza prestabilita.
+
+In base alla normativa vigente in Italia, per l’utilizzo dei cookie non sempre è richiesto un espresso consenso dell’utente. In particolare, non richiedono tale consenso i “cookie tecnici”, cioè quelli utilizzati al solo fine di effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica, o nella misura strettamente necessaria per erogare un servizio esplicitamente richiesto dall’utente. Si tratta, in altre parole, di cookie indispensabili per il funzionamento del sito o necessari per eseguire attività richieste dall’utente.
+
+Tra i cookie tecnici, che non richiedono un consenso espresso per il loro utilizzo, il Garante per la protezione dei Dati Personali italiano (cfr. Provvedimento Individuazione delle modalità semplificate per l’informativa e l’acquisizione del consenso per l’uso dei cookie dell’8 maggio 2014, di seguito solo “Provvedimento”) ricomprende anche:
+
+    i “cookie analytics” laddove utilizzati direttamente dal gestore del sito per raccogliere informazioni, in forma aggregata, sul numero degli utenti e su come questi visitano il sito stesso,
+    i cookie di navigazione o di sessione he garantiscono la normale navigazione e fruizione del sito web (permettendo, ad esempio, di realizzare un acquisto o autenticarsi per accedere ad aree riservate);
+    i cookie di funzionalità, che permettono all’utente la navigazione in funzione di una serie di criteri selezionati (ad esempio, la lingua, i prodotti selezionati per l’acquisto) al fine di migliorare il servizio reso allo stesso.
+
+Per i “cookie di profilazione”, viceversa, cioè quelli volti a creare profili relativi all’utente e utilizzati al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dallo stesso nell’ambito della navigazione in rete, è richiesto un preventivo consenso dell’utente.
+
+2. Tipologie di cookie utilizzate dal Sito
+
+Il Sito utilizza le seguenti tipologie di cookie, ed offre la possibilità di de-selezione dei medesimi, salvo che per i cookie di terze parti per i quali l’utente deve fare riferimento direttamente alle relative modalità di selezione e de-selezione dei rispettivi cookie, indicate a mezzo di link:
+
+    Cookie tecnici – di navigazione o sessione – strettamente necessari per il funzionamento del Sito o per consentire all’utente di usufruire dei contenuti e dei servizi da questi richiesti.
+    Cookie analytics, che consentono al gestore del Sito di comprendere come questo viene utilizzato dagli utenti. Con questi cookie non vengono raccolte informazioni sull’identità dell’utente, né alcun dato personale. Le informazioni sono trattate in forma aggregata ed anonima.
+    Cookie di funzionalità, utilizzati per attivare specifiche funzionalità del Sito ed una serie di criteri selezionati (ad esempio, la lingua, i prodotti selezionati per l’acquisto) al fine di migliorare il servizio reso.
+    Cookie di profilazione, volti a creare profili relativi all’utente e utilizzati al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dallo stesso nell’ambito della navigazione in rete.
+
+ATTENZIONE: disabilitando i cookie tecnici e/o di funzionalità il Sito potrebbe risultare non consultabile o alcuni servizi o determinate funzioni del sito potrebbero risultare non disponibili o non funzionare correttamente, e l’utente potrebbe essere costretto a modificare o a inserire manualmente alcune informazioni o preferenze ogni volta che visiterà il Sito.
+
+IIP utilizza cookie di terze parti, cioè cookie di siti o di web server diversi da quello del Titolare, utilizzati per finalità proprie di tali terze parti, tra cui cookie analitici e di profilazione. Si precisa che tali soggetti terzi, di seguito elencati con i relativi collegamenti ipertestuali alle politiche sulla privacy, agiscono in qualità di autonomi titolari del trattamento dei dati raccolti attraverso i cookie da essi inviati pertanto, l’utente deve rifarsi alle loro politiche di trattamento di Dati Personali, informative ed eventuali moduli di raccolta del consenso (selezione e de-selezione dei rispettivi cookie.
+
+Si elencano di seguito i link alle rispettive informative sull’uso dei cookie accedendo e ai moduli di consenso predisposti (come richiesto dal Provvedimento):
+
+Google: https://www.google.it/intl/it/policies/technologies/types/Google Analytics: https://tools.google.com/dlpage/gaoptout?hl=en-GB
+
+Nel dettaglio, i cookie inviati direttamente tramite il Sito sono indicati di seguito:
+
+Cookie presenti nel Sito:
+
+Allo stato attuale non vi sono cookies presenti nel sito internet.
+
+Nella prospettiva di possibile inserimento di alcuni cookie come Google Analytics è stata predisposta la presente Cookie Policy.
+
+Sono presenti due tracker riferibili entrambi al social network Twitter:
+
+https://platform.twitter.com/widgets/widget_iframe.c5b006ac082bc92aa829181b9ce63af1.html?origin=https%3A%2F%2Facademy.istitutoitalianoprivacy.it&settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings
+
+https://platform.twitter.com/widgets.js
+
+3. Come visualizzare e modificare i cookie attraverso il proprio programma di navigazione (c.d. browser)
+L’utente può selezionare quali cookie autorizzare attraverso l’apposita procedura predisposta nella sezione Impostazioni relative ai cookie, nonché autorizzare, bloccare o cancellare (in tutto o in parte) i cookie attraverso le specifiche funzioni del proprio programma di navigazione (c.d. browser): tuttavia, nell’ipotesi in cui tutti o alcuni dei cookie vengano disabilitati è possibile che il Sito risulti non consultabile o che alcuni servizi o determinate funzioni del Sito non siano disponibili o non funzionino correttamente e/o l’utente potrebbe essere costretto a modificare o a inserire manualmente alcune informazioni o preferenze ogni volta che visiterà il Sito.
+Per avere maggiori informazioni su come impostare le preferenze sull’uso dei cookie attraverso il proprio browser di navigazione, è possibile consultare le relative istruzioni:
+
+    Internet Explorer
+    Firefox
+    Chrome
+    Safari
+
+4. Impostazioni relative ai cookie
+
+Di seguito è possibile per l’utente operare una scelta ed indicare specificatamente quali cookie autorizzare.
+Si informa l’utente che non autorizzare i cookie tecnici potrebbe comportare l’impossibilità di utilizzare il Sito, visionare i suoi contenuti ed usufruire dei relativi servizi. Inibire i cookie di funzionalità potrebbe comportare che alcuni servizi o determinate funzioni del Sito non siano disponibili o non funzionino correttamente e l’utente potrebbe essere costretto a modificare o a inserire manualmente alcune informazioni o preferenze ogni volta che visiterà il Sito.
+
+La mancata autorizzazione rispetto agli altri cookie indicati di terze parti non inciderà sul funzionamento del Sito; tuttavia, essendo tali tipi di cookie inviati esclusivamente da terze parti, e non potendo il gestore del Sito esercitare un controllo sull’invio di tali cookie al terminale dell’utente, la relativa opposizione potrà essere esercitata solo accedendo ai moduli di consenso predisposti dalle citate terze parti, se presenti, oppure attraverso le impostazioni del proprio browser. I link alle politiche privacy ed eventuali moduli di raccolta di consenso alla ricezione dei cookie predisposti dalle terze parti che inviano cookie tramite il Sito sono forniti nella sezione Tipologie di cookie utilizzate dal Sito.
+
+Per quanto concerne i cookie direttamente inviati dal gestore del Sito, oltre che attraverso la procedura messa a disposizione in questa pagina, l’utente potrà bloccare o cancellare (in tutto o in parte) i cookie anche attraverso le specifiche funzioni del proprio browser di navigazione (in merito, si veda quanto riportato sopra).
+
+Le scelte operate dall’utente in riferimento ai cookie del Sito saranno a loro volta registrate in un apposito cookie tecnico, avente le caratteristiche riportate nell’apposita tabella dei cookie. Tale cookie potrebbe, tuttavia, in alcune circostanze non funzionare correttamente: in tali casi, si consiglia all’utente di cancellare i cookie non graditi e di inibirne l’utilizzo anche attraverso le funzionalità del proprio browser di navigazione.
+
+Le preferenze dell’utente in riferimento ai cookie andranno reimpostate nel caso si utilizzino diversi dispositivi o browser per accedere al Sito.
